@@ -6,8 +6,8 @@ Check out all the apps that have been built and deployed using [Atri framework](
 | App title                            | Website                               | Details                               |
 | ------------------------------- | --------------------------------------- | --------------------------------------- |
 | **Personal blog**             | [Website link](https://atri-apps.github.io/personal_blog/)                  | [GitHub repository](https://github.com/Atri-Apps/personal_blog)                 |
-| **Ecommerce website** | [Website link](https://atri-apps.github.io/personal_blog/)                   | [GitHub repository](https://github.com/Atri-Apps/personal_blog)            |
-| **Background remover app**         | [Website link](https://atri-apps.github.io/personal_blog/) | [GitHub repository](https://github.com/Atri-Apps/personal_blog)               |
+| **Ecommerce website** | [Website link](https://atri-apps.github.io/full_stack_ecommerce_website)                   | [GitHub repository](https://github.com/Atri-Apps/full_stack_ecommerce_website)            |
+| **Background remover app**         | [Website link](https://atri-apps.github.io/custom_background/) | [GitHub repository](https://github.com/Atri-Apps/custom_background)               |
 
 
 
